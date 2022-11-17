@@ -1,10 +1,35 @@
+# 工作中的技巧
+- java 可以封装一个查询对象  例如 UserQuery 里面有分页参数 有排序字段传递 有 正序倒序 这样可以用实体类接收对象 也不会把无关字段 写到实体类中
+- 测试的原则就是不要修改代码
+- @Transactional 注解不要写在Controller层
 
-java 可以封装一个查询对象  例如 UserQuery 里面有分页参数 有排序字段传递 有 正序倒序 这样可以用实体类接收对象 也不会把无关字段 写到实体类中
-
-测试的原则就是不要修改代码
-
-
+# Java框架中需要学习的知识
+- redis
+- druid
+- mysql
+- es
+- rocketmq
+- mybatis plus
+- fastjson
+- lombok
+- 短连接 
+- 云存储
+- 二维码
+- spring security
+- hutool
+- 发邮件
+- 接口文档
+- 授权 第三方登陆相关
+- easyExcel  excel处理
+- websocket
+# 待学习的编程技术
 Linux
 Nginx
 Docker
 devops
+# 觉得很有用的话
+- 累了看父母，倦了想前程。
+- 不要因为不能控制的事情焦虑
+- 要学好一个东西要先接受他
+- 先学厚 在学能
+- 事以秘成，语以泄败
